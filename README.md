@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @schreck
+- 👀 I’m interested in plants and computing.
+- 🌱 I’m currently re-learning arduino processing.
+- 💞️ I’m looking to collaborate on data intensive applications, ubiquitous computing, and space games with at least an acknowlegment to newtonian motion.
+- 📫 twitter.com/@szhreck.
